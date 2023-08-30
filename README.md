@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### 열정가득한 개발자 👋
 
 > 열정이 없는 삶은 시체의 삶과 같다.
