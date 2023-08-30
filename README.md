@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome!?&type=waving&height=300&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?text=Welcome!?&type=Cylinder&height=300&fontColor=d6ace6)
 
 ### 열정가득한 개발자 👋
 
