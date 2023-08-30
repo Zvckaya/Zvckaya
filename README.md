@@ -1,5 +1,11 @@
 ### 열정가득한 개발자 👋
 
+##
+
+> 열정이 없는 삶은 시체의 삶과 같다.
+> 열정이라는 단어를 알지만 행동하지 않는건 범죄이다.
+> 열정과 패기는 배신하지 않는 영원한 친구
+
 <!--
 **Zvckaya/Zvckaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
